@@ -1,4 +1,7 @@
-// 0-get_list_students.js
+/**
+ * Retrieves a list of students.
+ * @returns {{id: Number, firstName: String, location: String}[]}
+ */
 
 function getListStudents() {
     return [
