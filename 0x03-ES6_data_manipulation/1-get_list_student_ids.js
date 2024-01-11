@@ -8,5 +8,5 @@ function getListStudentIds(arrayOfStudents) {
     return arrayOfStudents.map(student => student.id);
   }
   
-  module.exports = getListStudentIds;
+  export default getListStudentIds;
   

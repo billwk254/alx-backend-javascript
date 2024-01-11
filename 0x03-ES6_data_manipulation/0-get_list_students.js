@@ -11,5 +11,5 @@ function getListStudents() {
     ];
   }
   
-  module.exports = getListStudents;
+  export default getListStudents;
   
